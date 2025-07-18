@@ -1,0 +1,5 @@
+streamlit
+fer
+opencv-python-headless
+Pillow
+streamlit-shadcn-ui
